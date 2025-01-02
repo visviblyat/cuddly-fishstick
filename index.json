@@ -1,0 +1,16 @@
+{
+  "arch": "x86_64",
+  "build": "py311haa95532_2",
+  "build_number": 2,
+  "depends": [
+    "python >=3.11,<3.12.0a0",
+    "six >=1.5"
+  ],
+  "license": "BSD-3-Clause and Apache-2.0",
+  "license_family": "BSD",
+  "name": "python-dateutil",
+  "platform": "win",
+  "subdir": "win-64",
+  "timestamp": 1716495838826,
+  "version": "2.9.0post0"
+}
